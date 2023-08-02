@@ -1,0 +1,23 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.home-container/* Write your CSS code here */
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.homeImage {
+  height: 200px;
+  width: 200px;
+}
+
+.Home {
+  color: #551e53;
+  text-align: center;
+}

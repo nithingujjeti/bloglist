@@ -1,0 +1,20 @@
+.userName-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.description {
+  font-size: 12px;
+  color: #9aa5b1;
+  font-family: 'roboto';
+}
+
+.profile-heading {
+  font-size: 18px;
+  font-family: 'roboto';
+}
+.userImage {
+  height: 75px;
+  width: 80px;
+}
